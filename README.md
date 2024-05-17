@@ -1,4 +1,4 @@
-# cards-stack
+# stacked-cards-interaction
 
 ## Build Setup
 
