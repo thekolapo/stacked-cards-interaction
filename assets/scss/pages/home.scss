@@ -50,7 +50,6 @@
     margin-top: 15rem;
     cursor: grab;
     --scale: 0;
-    background-color: bisque;
 
     @include screen('small') {
       --min-size: unset;
